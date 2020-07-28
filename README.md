@@ -1,6 +1,6 @@
 # clip_share
 
-A new Flutter application.
+A Flutter application to sync clipboard between computer and phone.
 
 ## Getting Started
 
