@@ -2,15 +2,10 @@
 
 A Flutter application to sync clipboard between computer and phone.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+• ClipShare is a tool to sync clipboard of mobile and computer.
+• When clipboard data is changed on any device, it’ll send to other
+end using socket.
+• I used flutter framework to create mobile app which will act as
+client and Java server for computer. Since java is platform independent
+and flutter can create cross-platform app, this tool can
+be used on any platform.
